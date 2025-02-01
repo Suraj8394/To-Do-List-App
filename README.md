@@ -9,20 +9,15 @@
 ✔️ Remove tasks with a double-click
 ✔️ Simple and responsive design
 
-#📌 How to Use:  
-
+📌 How to Use:  
 
 Enter a task in the input field.
 Click "Add" to add the task to the list.
 Click on a task to mark it as completed.
 Double-click a task to remove it.
 
-git clone https://github.com/YOUR_USERNAME/todo-list.git
-cd todo-list
 
-
-#🤝 Contributing:
-
+🤝 Contributing:
 
 Feel free to contribute! Open an issue or submit a pull request to improve the app.
 
